@@ -161,20 +161,49 @@ header .kiri .cta img {
    height: 50px;
 }
 
+section {margin-bottom: 100px;
+
+}
+h2 {
+   font-size: 34px;margin-bottom: 20px;
+}
+p.sub, p.tentang, p.penjelasan {
+   font-size: 19px;margin-bottom: 50px;
+}
+
+
+
+
 /* Best Seller */
+.best-seller{text-align: center;}
+.best-seller .product p{
+   font-weight: bold;
+   margin-top: 15px;
+
+}
+
+.best-seller .product{
+   width:25% ;
+   
+}
+.best-seller .product img {
+   border-radius: 20px;
+   overflow: hidden;
 
 
+}
+  
 
 /* About Us */
-
+.about-us{text-align: center;}
 
 
 /* Our Team */
-
+.our-team{text-align: center;}
 
 
 /* Review */
-
+.review{text-align: center;}
 
 
 /* Contact Us */
